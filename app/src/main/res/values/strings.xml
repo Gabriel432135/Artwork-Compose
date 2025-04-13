@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Artwork Compose</string>
+    <string name="previous_button">Anterior</string>
+    <string name="next_button">Próximo</string>
 </resources>
