@@ -2,4 +2,13 @@
     <string name="app_name">Artwork Compose</string>
     <string name="previous_button">Anterior</string>
     <string name="next_button">Próximo</string>
+    <string name="surrealismo_nome">Paisagem surrealista</string>
+    <string name="surrealismo_autor">Blinkshot (IA)</string>
+    <string name="surrealismo_data">2025</string>
+    <string name="desenho_nome">Robô</string>
+    <string name="desenho_autor">Blinkshot (IA)</string>
+    <string name="desenho_data">2025</string>
+    <string name="realista_nome">Robô realista</string>
+    <string name="realista_autor">Blinkshot (IA)</string>
+    <string name="realista_data">2025</string>
 </resources>
